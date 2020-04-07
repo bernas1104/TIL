@@ -40,10 +40,10 @@ before the function that will actually process the request. All you need is:
 
 - Create a function like: 
 
-> function Foo(request, response, next){
->   // some action
->   next();
-> }
+> function Foo(request, response, next){  
+>   // some action  
+>   next();  
+> }  
 
 - Add it to the route (or all the routes)
   - To some route: app.get('/foo', Foo, (request, response) => {});
