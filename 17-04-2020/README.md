@@ -106,13 +106,13 @@ create problems on the challenge).
 So, the solution is to use the Promise.all. This will take a async function, and
 ensure that the order will be respected. So we can create a code like this:
 
-> async Foo() {
-> const promises = await Promise.all(
->     array.map(async item => {
->       const response = await Bar(item);
->       return response;
->     })
->   )
+> async Foo() {  
+> const promises = await Promise.all(  
+>     array.map(async item => {  
+>       const response = await Bar(item);  
+>       return response;  
+>     })  
+>   )  
 > }
 
 This will loop through the array, execute the async function and return the results
