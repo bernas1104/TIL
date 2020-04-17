@@ -103,16 +103,12 @@ file, and register 3 instances of a model to the database. My main problem was
 forEach is a "no-no". It creates concurrency, and this can create problems (it did
 create problems on the challenge).
 
-So, the solution is to use the Promise.all. This will take a async function, and
-ensure that the order will be respected. So we can create a code like this:
+So, the solution is to use the for. The for loop will wait for the async/await
+calls, and it will respect the order of the calls, avoiding concurrency. Here's
+an example:
 
-> async Foo() {  
-> const promises = await Promise.all(  
->     array.map(async item => {  
->       const response = await Bar(item);  
->       return response;  
->     })  
->   )  
+> for(item in array) {  
+>   const response = await Bar(item);
 > }
 
 This will loop through the array, execute the async function and return the results
