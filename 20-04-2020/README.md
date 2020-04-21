@@ -72,3 +72,45 @@ understand the HTML;
 - On functions that will take an "HTML Event", we need to define their type. To do
 this, we'll need the Event (on the project, we used FormEvent, but I believe there
 are other specific types) with the HTML...Event (same story as the Event).
+
+## Basics of Spring Boot
+
+So, yesterday I started a new online course that will last this entire week. It's
+a series of 4 videos that will talk about creating a Spring Boot REST API for
+beginners.
+
+On the first video, I learned how to create Spring Boot projects using the Spring
+Tools Suite (an Eclipse based IDE), creating my first route and my first model.
+
+It's all very basic, but I'm seeing a lot of similarities with Node.JS, specially
+with TypeScript.
+
+The creation of classes follows no particular structure. Every class is just a simple
+Java class, but to make Spring Boot understand that a given class is a Route to a
+resource, we need to use the Decorators Pattern.
+
+For instance, suppose you need a "/clients" GET route. All you need to do is:
+
+> @RestController  
+> public class ClientsController {  
+>	@GetMapping("/clients")  
+>	public List<Client> index() {  
+>		var client1 = new Client();  
+>		var client2 = new Client();  
+>		  
+>		client1.setName("Bernardo Costa");  
+>		  
+>		return Arrays.asList(client1, client2);  
+>	 }  
+> }  
+
+The "@RestController" tells that the "ClientsController" class will receive requests.
+The "@GetMapping("/clients")" tells that the "index" function will answer to the
+"/clients" route with the GET method.
+
+Spring Boot transforms the answer in a JSON automatically, and we can change the type
+of response by adding new project dependecies.
+
+I found interesting that building a REST API is similar between two distinct languages.
+I hope to learn more about connecting to a DB, creating a CRUD and frontend developing
+with Spring. Seems like an interesting tool.

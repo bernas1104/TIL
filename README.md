@@ -12,4 +12,6 @@ A type of journal with the things I learned on a given day
 - 15-04-2020: TypeScript Back-end projects: Database and TypeORM
 - 17-04-2020: Node.JS back-end: Register, Auth and Exception Handling
 - 18-04-2020: Unity 3D: Creator Kit - RPG, Basics of Unity 3D
-- 20-04-2020: React.JS first project
+- 20-04-2020:
+  - React.JS first project
+  - Basics of Spring Boot
