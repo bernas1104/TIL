@@ -15,3 +15,4 @@ A type of journal with the things I learned on a given day
 - 20-04-2020:
   - React.JS first project
   - Basics of Spring Boot
+- 22-04-2020: Delving into React.JS
