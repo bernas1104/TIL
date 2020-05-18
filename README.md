@@ -20,3 +20,6 @@ A type of journal with the things I learned on a given day
 - 05-05-2020:
   - Domain Driven Design
   - Test Driven Development
+- 05-18-2020:
+  - Feature Mapping
+  - More on TDD
