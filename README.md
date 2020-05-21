@@ -23,3 +23,7 @@ A type of journal with the things I learned on a given day
 - 05-18-2020:
   - Feature Mapping
   - More on TDD
+- 05-21-2020:
+  - Class Transformer
+  - Caching with Redis
+  - SQL Relations - OneToMany/ManyToOne/ManyToMany
