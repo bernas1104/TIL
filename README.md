@@ -27,3 +27,4 @@ A type of journal with the things I learned on a given day
   - Class Transformer
   - Caching with Redis
   - SQL Relations - OneToMany/ManyToOne/ManyToMany
+- 06-07-2020: Codenation C# Module I - Basics
