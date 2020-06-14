@@ -28,3 +28,4 @@ A type of journal with the things I learned on a given day
   - Caching with Redis
   - SQL Relations - OneToMany/ManyToOne/ManyToMany
 - 06-07-2020: Codenation C# Module I - Basics
+- 06-14-2020: ASP.NET API - Bulding a simple ASP.NET API in 15 minutes
