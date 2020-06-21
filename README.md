@@ -30,3 +30,4 @@ A type of journal with the things I learned on a given day
 - 06-07-2020: Codenation C# Module I - Basics
 - 06-14-2020: ASP.NET API - Bulding a simple ASP.NET API in 15 minutes
 - 06-15-2020: C# Unit Testing
+- 06-21-2020: Codenation C# Module III - Generics, Extension Methods and Exceptions
