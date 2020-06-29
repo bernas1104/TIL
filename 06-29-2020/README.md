@@ -108,3 +108,15 @@ They are concerned with algorithms and the assignment of responsibilities betwee
 objects. More specifically, they care about communication between objects. Some
 examples are: Chain of Reposability, Command, Iterator, Mediator, Memento, Observer
 and Template Method.
+
+### Disclaimer
+
+It is important some research on these design patterns since the video class didn't
+go into much detail.
+
+## Clean Code
+
+It is a form of development which applies simples techniques to make it easier
+writing and reading code. Some of techniques include: (a) convert big methods into
+smaller methods; (b) renaming variables; (c) make the code less complex; (d)
+reduce the use of conditionals; (e) eliminate duplicate code.
