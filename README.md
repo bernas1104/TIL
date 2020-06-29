@@ -31,3 +31,4 @@ A type of journal with the things I learned on a given day
 - 06-14-2020: ASP.NET API - Bulding a simple ASP.NET API in 15 minutes
 - 06-29-2020:
   - S.O.L.I.D Basics
+  - Design Patterns

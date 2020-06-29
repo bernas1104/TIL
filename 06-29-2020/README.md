@@ -76,3 +76,35 @@ Also, there is the Factories pattern that helps with avoiding the dependency on 
 implementations. It defines two interfaces: one used to make a request for an instance
 of the class that has the concrete implementation and another to receive the concrete
 implementation and make it available to the application.
+
+## Design Patterns
+
+A design pattern is a general repeatable solution for a commom problem. It's not
+something that is directly converted to code, but a description or model on how
+to resolve a problem that can be used in many different situations.
+
+They are classified into three sub categories, based on the type of problem they
+solve:
+
+- Creational Design Patterns;
+- Structural Design Patterns;
+- Behavioral Design Pattenrs.
+
+### Creational Design Patterns
+
+They define ways to create objects, that increase the flexibility and the reuse
+of existing code. Some examples are: Factory Method, Abstract Factory, Builder,
+Prototype and Singleton.
+
+### Structural Design Patterns
+
+Explain how to assemble objects and classes in bigger structures, keeping them
+flexible and efficient. Some examples are: Adapter, Bridge, Composite, Decorator,
+Facade, Flyweight and Proxy.
+
+### Behavioral Design Patterns
+
+They are concerned with algorithms and the assignment of responsibilities between
+objects. More specifically, they care about communication between objects. Some
+examples are: Chain of Reposability, Command, Iterator, Mediator, Memento, Observer
+and Template Method.
