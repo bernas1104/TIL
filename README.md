@@ -34,4 +34,6 @@ A type of journal with the things I learned on a given day
 - 06-29-2020:
   - S.O.L.I.D Basics
   - Design Patterns
-- 06-30-2020: Deploy of Node applications
+- 06-30-2020:
+  - Deploy of Node applications
+  - Basics of Golang: Variables
