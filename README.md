@@ -37,3 +37,4 @@ A type of journal with the things I learned on a given day
 - 06-30-2020:
   - Deploy of Node applications
   - Basics of Golang: Variables
+- 07-01-2020: Basics of Golang: Primitive Types
