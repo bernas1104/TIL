@@ -41,3 +41,4 @@ A type of journal with the things I learned on a given day
   - Primitive Types
   - Constant Types
 - 07-03-2020: Deploy of React.js applications
+- 07-04-2020: Basics of Golang: Arrays and Slices
