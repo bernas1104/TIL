@@ -48,7 +48,7 @@ add two integers of different bit sizes, the compiler will flag an error. You mu
 convert the integers to the same bit size in order to proceed.
 
 To work with numbers, we can use bit operators. There are four bit operators: AND,
-OR, XOR and NAND.
+OR, XOR and AND NOT.
 
 ```go
 a := 10 // 1010
@@ -57,7 +57,7 @@ b := 3  // 0011
 fmt.Println(a & b)  // 2  - 0010 it returns '1' if both bits are set
 fmt.Println(a | b)  // 11 - 1011 it returns '1' if one of the bits is set
 fmt.Println(a ^ b)  // 9  - 1001 it returns '1' if one bit is set and the other isn't
-fmt.Println(a &^ b) // 8  - 0100 it returns '1' if neither bits are set
+fmt.Println(a &^ b) // 8  - 1000 because "^b" evaluates to 1100 -> 1010 & 1100
 ```
 
 There's also bit shift operators ">>" and "<<".
