@@ -47,3 +47,4 @@ A type of journal with the things I learned on a given day
   - If and Switch Statements
   - Looping
 - 07-07-2020: Basics of Golang: Defer, Panic and Recover
+- 07-08-2020: Basics of Golang: Pointers
