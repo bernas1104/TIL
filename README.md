@@ -46,3 +46,4 @@ A type of journal with the things I learned on a given day
   - Maps and Structs
   - If and Switch Statements
   - Looping
+- 07-07-2020: Basics of Golang: Defer, Panic and Recover
