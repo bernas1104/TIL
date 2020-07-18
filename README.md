@@ -53,3 +53,4 @@ A type of journal with the things I learned on a given day
 - 07-09-2020: Basics of Golang:
   - Interfaces
   - Goroutines
+- 07-17-2020: Intro to Vue.js
