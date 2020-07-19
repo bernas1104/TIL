@@ -54,3 +54,7 @@ A type of journal with the things I learned on a given day
   - Interfaces
   - Goroutines
 - 07-17-2020: Intro to Vue.js
+- 07-19-2020: Basics of Spring
+  - Persistence
+  - Bean Validation
+  - Exception Handler

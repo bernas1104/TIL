@@ -213,4 +213,5 @@ func logger() {
 ```
 
 If we were to add the "default" statement to our select, then our select wouldn't
-be a blocking select statement anymore!
+be a blocking select statement anymore. Also, if multiples channels receive messages
+simultaneously, behaviour is undefined.
