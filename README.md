@@ -3,58 +3,62 @@
 A type of journal with the things I learned on a given day
 
 ## Table of Contents
-
-- 04-06-2020: Express.JS Middlewares
-- 04-09-2020: Basics of React.JS (Review)
-- 04-10-2020: Basics of React Native (Review)
-- 04-11-2020: Basics of TypeScript
-- 04-14-2020: JavaScript Projects: Structure and Patterns
-- 04-15-2020: TypeScript Back-end projects: Database and TypeORM
-- 04-17-2020: Node.JS back-end: Register, Auth and Exception Handling
-- 04-18-2020: Unity 3D: Creator Kit - RPG, Basics of Unity 3D
-- 04-20-2020:
-  - React.JS first project
-  - Basics of Spring Boot
-- 04-22-2020: Delving into React.JS
-- 04-23-2020: Delving into React Native
-- 05-05-2020:
-  - Domain Driven Design
-  - Test Driven Development
-- 05-18-2020:
-  - Feature Mapping
-  - More on TDD
-- 05-21-2020:
-  - Class Transformer
-  - Caching with Redis
-  - SQL Relations - OneToMany/ManyToOne/ManyToMany
-- 06-07-2020: Codenation C# Module I - Basics
-- 06-14-2020: ASP.NET API - Bulding a simple ASP.NET API in 15 minutes
-- 06-15-2020: C# Unit Testing
-- 06-21-2020: Codenation C# Module III - Generics, Extension Methods and Exceptions
-- 06-29-2020:
-  - S.O.L.I.D Basics
-  - Design Patterns
-- 06-30-2020:
-  - Deploy of Node applications
-  - Basics of Golang: Variables
-- 07-01-2020: Basics of Golang:
-  - Primitive Types
-  - Constant Types
-- 07-03-2020: Deploy of React.js applications
-- 07-04-2020: Basics of Golang
-  - Arrays and Slices
-  - Maps and Structs
-  - If and Switch Statements
-  - Looping
-- 07-07-2020: Basics of Golang: Defer, Panic and Recover
-- 07-08-2020: Basics of Golang:
-  - Pointers
-  - Functions
-- 07-09-2020: Basics of Golang:
-  - Interfaces
-  - Goroutines
-- 07-17-2020: Intro to Vue.js
-- 07-19-2020: Basics of Spring
-  - Persistence
-  - Bean Validation
-  - Exception Handler
+- 2020
+  - 04-06: Express.JS Middlewares
+  - 04-09: Basics of React.JS (Review)
+  - 04-10: Basics of React Native (Review)
+  - 04-11: Basics of TypeScript
+  - 04-14: JavaScript Projects: Structure and Patterns
+  - 04-15: TypeScript Back-end projects: Database and TypeORM
+  - 04-17: Node.JS back-end: Register, Auth and Exception Handling
+  - 04-18: Unity 3D: Creator Kit - RPG, Basics of Unity 3D
+  - 04-20:
+    - React.JS first project
+    - Basics of Spring Boot
+  - 04-22: Delving into React.JS
+  - 04-23: Delving into React Native
+  - 05-05:
+    - Domain Driven Design
+    - Test Driven Development
+  - 05-18:
+    - Feature Mapping
+    - More on TDD
+  - 05-21:
+    - Class Transformer
+    - Caching with Redis
+    - SQL Relations - OneToMany/ManyToOne/ManyToMany
+  - 06-07: Codenation C# Module I - Basics
+  - 06-14: ASP.NET API - Bulding a simple ASP.NET API in 15 minutes
+  - 06-15: C# Unit Testing
+  - 06-21: Codenation C# Module III - Generics, Extension Methods and Exceptions
+  - 06-29:
+    - S.O.L.I.D Basics
+    - Design Patterns
+  - 06-30:
+    - Deploy of Node applications
+    - Basics of Golang: Variables
+  - 07-01: Basics of Golang:
+    - Primitive Types
+    - Constant Types
+  - 07-03: Deploy of React.js applications
+  - 07-04: Basics of Golang
+    - Arrays and Slices
+    - Maps and Structs
+    - If and Switch Statements
+    - Looping
+  - 07-07: Basics of Golang: Defer, Panic and Recover
+  - 07-08: Basics of Golang:
+    - Pointers
+    - Functions
+  - 07-09: Basics of Golang:
+    - Interfaces
+    - Goroutines
+  - 07-17: Intro to Vue.js
+  - 07-19: Basics of Spring
+    - Persistence
+    - Bean Validation
+    - Exception Handler
+- 2022
+  - 13/02:
+    - Entity Framework: Inheritance
+    - Value Objects: ValueOf lib
