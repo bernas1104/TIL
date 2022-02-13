@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bernardo/Desktop/dotnet-api/dotnet-api.csproj": {}
+  },
+  "projects": {
+    "/home/bernardo/Desktop/dotnet-api/dotnet-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bernardo/Desktop/dotnet-api/dotnet-api.csproj",
+        "projectName": "dotnet-api",
+        "projectPath": "/home/bernardo/Desktop/dotnet-api/dotnet-api.csproj",
+        "packagesPath": "/home/bernardo/.nuget/packages/",
+        "outputPath": "/home/bernardo/Desktop/dotnet-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bernardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
