@@ -60,5 +60,9 @@ A type of journal with the things I learned on a given day
     - Exception Handler
 - 2022
   - 13/02:
-    - Entity Framework: Inheritance
-    - Value Objects: ValueOf lib
+    - C# - Entity Framework: Inheritance
+    - C# - Value Objects: ValueOf lib
+  - 19/02:
+    - Special Case Pattern
+    - C# - Language Extensions - Option
+    - C# - MediatR
